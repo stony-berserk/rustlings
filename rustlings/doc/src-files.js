@@ -1,0 +1,20 @@
+var srcIndex = JSON.parse('{\
+"enums3":["",[],["enums3.rs"]],\
+"errors6":["",[],["errors6.rs"]],\
+"functions5":["",[],["functions5.rs"]],\
+"generics2":["",[],["generics2.rs"]],\
+"hashmaps3":["",[],["hashmaps3.rs"]],\
+"if3":["",[],["if3.rs"]],\
+"lifetimes3":["",[],["lifetimes3.rs"]],\
+"modules3":["",[],["modules3.rs"]],\
+"move_semantics6":["",[],["move_semantics6.rs"]],\
+"options3":["",[],["options3.rs"]],\
+"primitive_types6":["",[],["primitive_types6.rs"]],\
+"strings4":["",[],["strings4.rs"]],\
+"structs3":["",[],["structs3.rs"]],\
+"tests4":["",[],["tests4.rs"]],\
+"traits5":["",[],["traits5.rs"]],\
+"variables6":["",[],["variables6.rs"]],\
+"vecs2":["",[],["vecs2.rs"]]\
+}');
+createSrcSidebar();
